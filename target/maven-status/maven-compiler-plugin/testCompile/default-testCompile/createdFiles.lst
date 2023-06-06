@@ -1,0 +1,5 @@
+com\resrful\booker\bookinginfo\AuthTest.class
+com\resrful\booker\authinfo\CreateAuthToken.class
+com\resrful\booker\testbase\TestBase.class
+com\resrful\booker\bookinginfo\BookingCRUDTest.class
+com\resrful\booker\testbase\TestBaseAuth.class

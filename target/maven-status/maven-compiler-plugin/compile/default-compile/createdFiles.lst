@@ -1,0 +1,9 @@
+com\resrful\booker\bookinginfo\AuthSteps.class
+com\resrful\booker\utils\PropertyReader.class
+com\resrful\booker\model\PartialUpdatePojo.class
+com\resrful\booker\constants\Path.class
+com\resrful\booker\model\BookingPojo.class
+com\resrful\booker\constants\EndPoints.class
+com\resrful\booker\utils\TestUtils.class
+com\resrful\booker\bookinginfo\BookingSteps.class
+com\resrful\booker\model\AuthPojo.class
